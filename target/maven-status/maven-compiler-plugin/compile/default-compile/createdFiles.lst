@@ -1,0 +1,7 @@
+com\educaccionit\rest\service\AlumnoServiceImpl.class
+com\educaccionit\rest\controller\AlumnoController.class
+com\educaccionit\rest\repository\AlumnoRepository.class
+com\educaccionit\Clase422Application.class
+com\educaccionit\rest\repository\AlumnoRepositoryImpl.class
+com\educaccionit\rest\model\Alumno.class
+com\educaccionit\rest\service\AlumnoService.class
